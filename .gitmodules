@@ -1,0 +1,3 @@
+[submodule "sms-portal-sgpx"]
+	path = sms-portal-sgpx
+	url = ./sms-portal-sgpx
